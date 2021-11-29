@@ -1,0 +1,32 @@
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.exe
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.deps.json
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.runtimeconfig.json
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.runtimeconfig.dev.json
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ref\ListaExercicio09 OOP Boi.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.pdb
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.csproj.AssemblyReference.cache
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.AssemblyInfoInputs.cache
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.AssemblyInfo.cs
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.csproj.CoreCompileInputs.cache
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ref\ListaExercicio09 OOP Boi.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.pdb
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.genruntimeconfig.cache
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.AssemblyInfoInputs.cache
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.AssemblyInfo.cs
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.csproj.CoreCompileInputs.cache
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.dll
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ref\ListaExercicio09 OOP Boi.dll
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.pdb
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.exe
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.deps.json
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.runtimeconfig.json
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.runtimeconfig.dev.json
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.dll
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ref\ListaExercicio09 OOP Boi.dll
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\bin\Debug\net5.0\ListaExercicio09 OOP Boi.pdb
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.genruntimeconfig.cache
+C:\Users\Shippozudo\Desktop\PremierSoft\ListaExercicio09 OOP Boi\ListaExercicio09 OOP Boi\obj\Debug\net5.0\ListaExercicio09 OOP Boi.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+Raça;Preço da arroba
+Nelore;15
+Angus;14
+brahman;13
+Senepol;12
+Brangus;11

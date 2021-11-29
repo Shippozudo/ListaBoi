@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ListaExercicio09 OOP Boi/1.0.0": {
+        "runtime": {
+          "ListaExercicio09 OOP Boi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaExercicio09 OOP Boi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
